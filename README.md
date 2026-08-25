@@ -41,7 +41,7 @@ const NOBODY_BOY_OPPA = {
   langages   : ["JavaScript", "HTML5", "CSS3", "Node.js"],
   passions   : ["Développement Web", "Automatisation", "Anime", "Open Source"],
   localisation : "Port-au-Prince, Haïti ",
-  projetActuel : "Construire NOBODY-MD et des plateformes web interactives",
+  projetActuel : "Construire des bots et des plateformes web interactives",
   devise     : "Code avec passion, déploie avec fierté."
 };
 ```
